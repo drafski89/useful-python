@@ -14,6 +14,7 @@ Geopy:
 
 Input Output:
 - Serial Port
+- Ethernet Port
 
 Lists:
 - Appending
@@ -27,4 +28,3 @@ Strings:
 - Splitting, Substring
 
 ## Examples to Add ##
-- Ethernet Port
