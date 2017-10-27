@@ -1,0 +1,1 @@
+This is a data lineHere is another lineThis is line 3 (count should be 2!)This is a data line, line 4 (count should be 3!)
