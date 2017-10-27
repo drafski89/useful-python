@@ -23,6 +23,11 @@ Lists:
 - Appending
 - Joining
 
+Loops:
+- If
+- For
+- While
+
 Multiprocessing:
 - Job Lists
 - Worker Pool 
