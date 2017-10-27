@@ -12,6 +12,9 @@ File Handling:
 Geopy:
 - GPS Speed
 
+Input Output:
+- Serial Port
+
 Lists:
 - Appending
 - Joining
@@ -24,3 +27,4 @@ Strings:
 - Splitting, Substring
 
 ## Examples to Add ##
+- Ethernet Port
