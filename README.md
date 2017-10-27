@@ -4,12 +4,15 @@ The purpose of this repo is to give basic examples in Python 2. This is meant to
 ## Current Options ##
 File Handling:  
 - File I/O
+
 Lists:
 - Appending
 - Joining
+
 Multiprocessing:
 - Job Lists
 - Worker Pool 
+
 Strings:
 - Splitting, Substring
 
