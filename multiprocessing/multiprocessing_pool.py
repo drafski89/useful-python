@@ -18,12 +18,12 @@ import time
 
 # Laptop: 2
 # Tower: 4
-# Servers: 4-16, tucsan3 = 8
-NUMBER_CORES = 16
+# Servers: 4-16, Solidfire = 8
+NUMBER_CORES = 8
 
 # Constant number of loops performed per core
 # Set higher number to show greater difference between multi and single
-ITERATIONS_PER_CORE = 4
+ITERATIONS_PER_CORE = 2
 
 # Calculate the total number of iterations performed
 # Example: 
@@ -49,7 +49,7 @@ def count(x):
         # Increment by 1
         x = x + 1
     # Print that we have finished a count with a .
-    print ".",
+    # print ".",
     # Print that we have finished a count with a message
     # print "Finished a count"
     

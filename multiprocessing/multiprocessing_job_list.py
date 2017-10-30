@@ -17,7 +17,7 @@ import time
 # Laptops: 2 cores, 4 threads
 # Desktops: 4 cores, 8 threads
 # Servers: 4 - 16 cores, 8 - 32 threads
-# tucsan3 = 8 cores, 16 threads
+# Solidfire = 8 cores, 16 threads
 NUMBER_CORES = 8
 
 # Constant number of loops performed per core
@@ -52,8 +52,8 @@ def count(lock, job_id):
         x = x + 1
     # Acquire the lock to printing out
     lock.acquire()
-    # Print that we have finished a count by printing job id
-    print str(job_id)
+    # Print that we have finished a count by printing a "."
+    # print ".",
     # Print that we have finished a count with a message
     # print "Finished a count"
     # Relese the lock
