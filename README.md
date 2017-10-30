@@ -35,10 +35,11 @@ Multiprocessing:
 Strings:
 - Splitting, Substring
 
-## Examples to Add ##
-Sorting:
+Sorts:
 - Bubble Sort
 - Insertion Sort
+
+## Examples to Add ##
+Sorting:
 - Quicksort
 - Merge Sort
-- Cocktail Sort
