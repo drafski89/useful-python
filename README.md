@@ -36,3 +36,9 @@ Strings:
 - Splitting, Substring
 
 ## Examples to Add ##
+Sorting:
+- Bubble Sort
+- Insertion Sort
+- Quicksort
+- Merge Sort
+- Cocktail Sort
