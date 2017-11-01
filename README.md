@@ -31,6 +31,7 @@ Loops:
 Multiprocessing:
 - Job Lists
 - Worker Pool 
+- Using Lock
 
 Strings:
 - Splitting, Substring
